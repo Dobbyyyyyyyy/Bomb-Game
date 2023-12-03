@@ -1,5 +1,22 @@
-# Bomb-Game
+## Bomb-Game
+# Main Game start
+# **게임 시작 전**
 
+## Game set
+-플레이어의 이름을 쉼표로 구분하여 최대 4명까지 입력
+
+## **게임시작 후**
+
+
+### 턴 시작
+ - 각 턴이 시작되면  0 또는 1, show, help를 선택해 행동
+    - 0 : 카드를 뽑은 후 턴 교체
+    - 1 : 보유중인 카드 사용
+    - show : 보유중인 카드 확인
+    - help : 도움말
+   
+### 앞선 턴 시작에서 1선택시 턴 진행
+  - 각 카드를 사용해 게임 진행 [참고](https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%EC%B9%B4%EB%93%9C-%EC%83%81%EC%84%B8%EC%84%A4%EB%AA%85)
 
 # **게임 시작전 아이탬 설명 **
 선택한 카드에 따른 다른 행동
@@ -49,24 +66,7 @@
 
 
 
-# Main Game start
-# **게임 시작 전**
 
-## Game set
--플레이어의 이름을 쉼표로 구분하여 최대 4명까지 입력
-
-## **게임시작 후**
-
-
-### 턴 시작
- - 각 턴이 시작되면  0 또는 1, show, help를 선택해 행동
-    - 0 : 카드를 뽑은 후 턴 교체
-    - 1 : 보유중인 카드 사용
-    - show : 보유중인 카드 확인
-    - help : 도움말
-   
-### 앞선 턴 시작에서 1선택시 턴 진행
-  - 각 카드를 사용해 게임 진행 [참고](https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%EC%B9%B4%EB%93%9C-%EC%83%81%EC%84%B8%EC%84%A4%EB%AA%85)
 
      
 *오류 발생시 아래의 이메일로 연락주세요
