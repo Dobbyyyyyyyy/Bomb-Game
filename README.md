@@ -18,7 +18,7 @@
 ### 앞선 턴 시작에서 1선택시 턴 진행
   - 각 카드를 사용해 게임 진행 [참고](https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%EC%B9%B4%EB%93%9C-%EC%83%81%EC%84%B8%EC%84%A4%EB%AA%85)
 
-# **각 카드 설명 **
+## 각 카드 설명 
 선택한 카드에 따른 다른 행동
 ### 카드종류
   * [폭탄](https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%ED%8F%AD%ED%83%84%EC%B9%B4%EB%93%9C%EB%A5%BC-%EB%BD%91%EC%95%98%EC%9D%84%EC%8B%9C-%ED%95%B4%EB%8B%B9-%ED%94%8C%EB%9E%98%EC%9D%B4%EC%96%B4-%EA%B2%8C%EC%9E%84%EC%98%A4%EB%B2%84)
