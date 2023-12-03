@@ -20,14 +20,14 @@
 
  - 선택한 카드에 따른 다른 행동
 
-        [폭탄].(https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%ED%8F%AD%ED%83%84%EC%B9%B4%EB%93%9C%EB%A5%BC-%EB%BD%91%EC%95%98%EC%9D%84%EC%8B%9C-%ED%95%B4%EB%8B%B9-%ED%94%8C%EB%9E%98%EC%9D%B4%EC%96%B4-%EA%B2%8C%EC%9E%84%EC%98%A4%EB%B2%84)
-        [제거].(https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%EC%A0%9C%EA%B1%B0-%EC%B9%B4%EB%93%9C)
-        [셔플].(https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%EC%85%94%ED%94%8C-%EC%B9%B4%EB%93%9C)
-        [투시].(https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%ED%88%AC%EC%8B%9C-%EC%B9%B4%EB%93%9C)
-        [강탈].(https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%EA%B0%95%ED%83%88-%EC%B9%B4%EB%93%9C)
-        [스킵].(https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%EC%8A%A4%ED%82%B5-%EC%B9%B4%EB%93%9C)
-        [밑장빼기].(https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%EB%B0%91%EC%9E%A5%EB%B9%BC%EA%B8%B0-%EC%B9%B4%EB%93%9C)
-        [프라이팬].(https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%ED%94%84%EB%9D%BC%EC%9D%B4%ED%8C%AC)
+    [폭탄].(https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%ED%8F%AD%ED%83%84%EC%B9%B4%EB%93%9C%EB%A5%BC-%EB%BD%91%EC%95%98%EC%9D%84%EC%8B%9C-%ED%95%B4%EB%8B%B9-%ED%94%8C%EB%9E%98%EC%9D%B4%EC%96%B4-%EA%B2%8C%EC%9E%84%EC%98%A4%EB%B2%84)
+    [제거].(https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%EC%A0%9C%EA%B1%B0-%EC%B9%B4%EB%93%9C)
+    [셔플].(https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%EC%85%94%ED%94%8C-%EC%B9%B4%EB%93%9C)
+    [투시].(https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%ED%88%AC%EC%8B%9C-%EC%B9%B4%EB%93%9C)
+    [강탈].(https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%EA%B0%95%ED%83%88-%EC%B9%B4%EB%93%9C)
+    [스킵].(https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%EC%8A%A4%ED%82%B5-%EC%B9%B4%EB%93%9C)
+    [밑장빼기].(https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%EB%B0%91%EC%9E%A5%EB%B9%BC%EA%B8%B0-%EC%B9%B4%EB%93%9C)
+    [프라이팬].(https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%ED%94%84%EB%9D%BC%EC%9D%B4%ED%8C%AC)
         
    
 
