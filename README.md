@@ -1,23 +1,7 @@
 # Bomb-Game
 
 
-# **게임 시작 전**
-
-### Game set
--플레이어의 이름을 쉼표로 구분하여 최대 4명까지 입력
-
-## **게임시작 후**
-### Main Game
-
-#### 턴 시작
- - 각 턴이 시작되면  0 또는 1, show, help를 선택해 행동
-    - 0 : 카드를 뽑은 후 턴 교체
-    - 1 : 보유중인 카드 사용
-    - show : 보유중인 카드 확인
-    - help : 도움말
-   
-#### 앞선 턴 시작에서 1선택시 턴 진행
-
+# **게임 시작전 아이탬 설명 **
 선택한 카드에 따른 다른 행동
 ### 카드종류
   * [폭탄](https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%ED%8F%AD%ED%83%84%EC%B9%B4%EB%93%9C%EB%A5%BC-%EB%BD%91%EC%95%98%EC%9D%84%EC%8B%9C-%ED%95%B4%EB%8B%B9-%ED%94%8C%EB%9E%98%EC%9D%B4%EC%96%B4-%EA%B2%8C%EC%9E%84%EC%98%A4%EB%B2%84)
@@ -64,6 +48,25 @@
   * 프라이팬 x3 - 선택한 플래이어의 턴이 3회 추가된다
 
 
+
+# Main Game start
+# **게임 시작 전**
+
+## Game set
+-플레이어의 이름을 쉼표로 구분하여 최대 4명까지 입력
+
+## **게임시작 후**
+
+
+### 턴 시작
+ - 각 턴이 시작되면  0 또는 1, show, help를 선택해 행동
+    - 0 : 카드를 뽑은 후 턴 교체
+    - 1 : 보유중인 카드 사용
+    - show : 보유중인 카드 확인
+    - help : 도움말
+   
+### 앞선 턴 시작에서 1선택시 턴 진행
+  - 각 카드를 사용해 게임 진행 [참고](https://github.com/Dobbyyyyyyyy/Bomb-Game/blob/main/README.md#%EC%B9%B4%EB%93%9C-%EC%83%81%EC%84%B8%EC%84%A4%EB%AA%85)
 
      
 *오류 발생시 아래의 이메일로 연락주세요
